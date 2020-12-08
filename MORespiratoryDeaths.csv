@@ -1,0 +1,909 @@
+﻿YEAR,WEEK,DISEASE,DEATHS
+2015,1,Influenza and pneumonia,68
+2016,1,Influenza and pneumonia,38
+2017,1,Influenza and pneumonia,36
+2018,1,Influenza and pneumonia,82
+2019,1,Influenza and pneumonia,22
+2020,1,Influenza and pneumonia,23
+2015,2,Influenza and pneumonia,44
+2016,2,Influenza and pneumonia,45
+2017,2,Influenza and pneumonia,42
+2018,2,Influenza and pneumonia,96
+2019,2,Influenza and pneumonia,31
+2020,2,Influenza and pneumonia,32
+2015,3,Influenza and pneumonia,53
+2016,3,Influenza and pneumonia,18
+2017,3,Influenza and pneumonia,50
+2018,3,Influenza and pneumonia,110
+2019,3,Influenza and pneumonia,23
+2020,3,Influenza and pneumonia,23
+2015,4,Influenza and pneumonia,44
+2016,4,Influenza and pneumonia,29
+2017,4,Influenza and pneumonia,45
+2018,4,Influenza and pneumonia,91
+2019,4,Influenza and pneumonia,19
+2020,4,Influenza and pneumonia,33
+2015,5,Influenza and pneumonia,36
+2016,5,Influenza and pneumonia,28
+2017,5,Influenza and pneumonia,42
+2018,5,Influenza and pneumonia,75
+2019,5,Influenza and pneumonia,31
+2020,5,Influenza and pneumonia,42
+2015,6,Influenza and pneumonia,33
+2016,6,Influenza and pneumonia,23
+2017,6,Influenza and pneumonia,45
+2018,6,Influenza and pneumonia,61
+2019,6,Influenza and pneumonia,37
+2020,6,Influenza and pneumonia,29
+2015,7,Influenza and pneumonia,35
+2016,7,Influenza and pneumonia,29
+2017,7,Influenza and pneumonia,53
+2018,7,Influenza and pneumonia,57
+2019,7,Influenza and pneumonia,29
+2020,7,Influenza and pneumonia,28
+2015,8,Influenza and pneumonia,38
+2016,8,Influenza and pneumonia,21
+2017,8,Influenza and pneumonia,61
+2018,8,Influenza and pneumonia,50
+2019,8,Influenza and pneumonia,37
+2020,8,Influenza and pneumonia,43
+2015,9,Influenza and pneumonia,44
+2016,9,Influenza and pneumonia,37
+2017,9,Influenza and pneumonia,39
+2018,9,Influenza and pneumonia,44
+2019,9,Influenza and pneumonia,23
+2020,9,Influenza and pneumonia,44
+2015,10,Influenza and pneumonia,31
+2016,10,Influenza and pneumonia,39
+2017,10,Influenza and pneumonia,39
+2018,10,Influenza and pneumonia,38
+2019,10,Influenza and pneumonia,37
+2020,10,Influenza and pneumonia,41
+2015,11,Influenza and pneumonia,27
+2016,11,Influenza and pneumonia,25
+2017,11,Influenza and pneumonia,44
+2018,11,Influenza and pneumonia,42
+2019,11,Influenza and pneumonia,37
+2020,11,Influenza and pneumonia,44
+2015,12,Influenza and pneumonia,33
+2016,12,Influenza and pneumonia,26
+2017,12,Influenza and pneumonia,23
+2018,12,Influenza and pneumonia,37
+2019,12,Influenza and pneumonia,35
+2020,12,Influenza and pneumonia,46
+2015,13,Influenza and pneumonia,30
+2016,13,Influenza and pneumonia,33
+2017,13,Influenza and pneumonia,34
+2018,13,Influenza and pneumonia,33
+2019,13,Influenza and pneumonia,30
+2020,13,Influenza and pneumonia,40
+2015,14,Influenza and pneumonia,33
+2016,14,Influenza and pneumonia,34
+2017,14,Influenza and pneumonia,22
+2018,14,Influenza and pneumonia,31
+2019,14,Influenza and pneumonia,32
+2020,14,Influenza and pneumonia,24
+2015,15,Influenza and pneumonia,39
+2016,15,Influenza and pneumonia,34
+2017,15,Influenza and pneumonia,26
+2018,15,Influenza and pneumonia,26
+2019,15,Influenza and pneumonia,24
+2020,15,Influenza and pneumonia,25
+2015,16,Influenza and pneumonia,25
+2016,16,Influenza and pneumonia,35
+2017,16,Influenza and pneumonia,16
+2018,16,Influenza and pneumonia,26
+2019,16,Influenza and pneumonia,19
+2020,16,Influenza and pneumonia,22
+2015,17,Influenza and pneumonia,32
+2016,17,Influenza and pneumonia,20
+2017,17,Influenza and pneumonia,17
+2018,17,Influenza and pneumonia,23
+2019,17,Influenza and pneumonia,18
+2020,17,Influenza and pneumonia,29
+2015,18,Influenza and pneumonia,19
+2016,18,Influenza and pneumonia,23
+2017,18,Influenza and pneumonia,19
+2018,18,Influenza and pneumonia,19
+2020,18,Influenza and pneumonia,19
+2015,19,Influenza and pneumonia,28
+2016,19,Influenza and pneumonia,16
+2017,19,Influenza and pneumonia,27
+2018,19,Influenza and pneumonia,22
+2019,19,Influenza and pneumonia,20
+2020,19,Influenza and pneumonia,13
+2015,20,Influenza and pneumonia,22
+2016,20,Influenza and pneumonia,20
+2017,20,Influenza and pneumonia,19
+2018,20,Influenza and pneumonia,11
+2019,20,Influenza and pneumonia,26
+2020,20,Influenza and pneumonia,24
+2015,21,Influenza and pneumonia,19
+2016,21,Influenza and pneumonia,19
+2018,21,Influenza and pneumonia,12
+2019,21,Influenza and pneumonia,14
+2020,21,Influenza and pneumonia,15
+2015,22,Influenza and pneumonia,28
+2016,22,Influenza and pneumonia,20
+2017,22,Influenza and pneumonia,22
+2018,22,Influenza and pneumonia,16
+2019,22,Influenza and pneumonia,23
+2020,22,Influenza and pneumonia,16
+2015,23,Influenza and pneumonia,20
+2016,23,Influenza and pneumonia,23
+2017,23,Influenza and pneumonia,21
+2018,23,Influenza and pneumonia,18
+2019,23,Influenza and pneumonia,14
+2020,23,Influenza and pneumonia,17
+2015,24,Influenza and pneumonia,26
+2016,24,Influenza and pneumonia,12
+2017,24,Influenza and pneumonia,13
+2018,24,Influenza and pneumonia,19
+2019,24,Influenza and pneumonia,23
+2020,24,Influenza and pneumonia,15
+2015,25,Influenza and pneumonia,23
+2016,25,Influenza and pneumonia,13
+2017,25,Influenza and pneumonia,17
+2018,25,Influenza and pneumonia,15
+2019,25,Influenza and pneumonia,13
+2020,25,Influenza and pneumonia,18
+2015,26,Influenza and pneumonia,28
+2016,26,Influenza and pneumonia,22
+2017,26,Influenza and pneumonia,22
+2018,26,Influenza and pneumonia,19
+2019,26,Influenza and pneumonia,14
+2020,26,Influenza and pneumonia,14
+2015,27,Influenza and pneumonia,14
+2016,27,Influenza and pneumonia,17
+2017,27,Influenza and pneumonia,21
+2019,27,Influenza and pneumonia,17
+2015,28,Influenza and pneumonia,17
+2016,28,Influenza and pneumonia,19
+2017,28,Influenza and pneumonia,18
+2018,28,Influenza and pneumonia,16
+2019,28,Influenza and pneumonia,18
+2020,28,Influenza and pneumonia,17
+2015,29,Influenza and pneumonia,20
+2016,29,Influenza and pneumonia,20
+2017,29,Influenza and pneumonia,22
+2018,29,Influenza and pneumonia,18
+2019,29,Influenza and pneumonia,15
+2020,29,Influenza and pneumonia,16
+2015,30,Influenza and pneumonia,28
+2016,30,Influenza and pneumonia,11
+2017,30,Influenza and pneumonia,16
+2018,30,Influenza and pneumonia,17
+2019,30,Influenza and pneumonia,27
+2020,30,Influenza and pneumonia,17
+2015,31,Influenza and pneumonia,11
+2016,31,Influenza and pneumonia,14
+2017,31,Influenza and pneumonia,18
+2019,31,Influenza and pneumonia,25
+2020,31,Influenza and pneumonia,14
+2015,32,Influenza and pneumonia,23
+2016,32,Influenza and pneumonia,23
+2017,32,Influenza and pneumonia,11
+2018,32,Influenza and pneumonia,16
+2019,32,Influenza and pneumonia,21
+2020,32,Influenza and pneumonia,19
+2015,33,Influenza and pneumonia,15
+2016,33,Influenza and pneumonia,18
+2017,33,Influenza and pneumonia,14
+2018,33,Influenza and pneumonia,11
+2019,33,Influenza and pneumonia,19
+2020,33,Influenza and pneumonia,25
+2015,34,Influenza and pneumonia,23
+2016,34,Influenza and pneumonia,16
+2017,34,Influenza and pneumonia,12
+2018,34,Influenza and pneumonia,21
+2019,34,Influenza and pneumonia,11
+2020,34,Influenza and pneumonia,19
+2015,35,Influenza and pneumonia,13
+2016,35,Influenza and pneumonia,20
+2017,35,Influenza and pneumonia,25
+2018,35,Influenza and pneumonia,11
+2019,35,Influenza and pneumonia,15
+2020,35,Influenza and pneumonia,18
+2015,36,Influenza and pneumonia,13
+2016,36,Influenza and pneumonia,17
+2018,36,Influenza and pneumonia,22
+2019,36,Influenza and pneumonia,21
+2020,36,Influenza and pneumonia,20
+2015,37,Influenza and pneumonia,26
+2016,37,Influenza and pneumonia,14
+2017,37,Influenza and pneumonia,15
+2018,37,Influenza and pneumonia,19
+2019,37,Influenza and pneumonia,11
+2020,37,Influenza and pneumonia,19
+2015,38,Influenza and pneumonia,20
+2016,38,Influenza and pneumonia,25
+2017,38,Influenza and pneumonia,16
+2018,38,Influenza and pneumonia,16
+2019,38,Influenza and pneumonia,15
+2020,38,Influenza and pneumonia,20
+2015,39,Influenza and pneumonia,18
+2016,39,Influenza and pneumonia,16
+2017,39,Influenza and pneumonia,17
+2018,39,Influenza and pneumonia,20
+2019,39,Influenza and pneumonia,15
+2020,39,Influenza and pneumonia,20
+2015,40,Influenza and pneumonia,19
+2016,40,Influenza and pneumonia,22
+2017,40,Influenza and pneumonia,23
+2018,40,Influenza and pneumonia,14
+2019,40,Influenza and pneumonia,18
+2020,40,Influenza and pneumonia,15
+2015,41,Influenza and pneumonia,24
+2016,41,Influenza and pneumonia,16
+2017,41,Influenza and pneumonia,17
+2018,41,Influenza and pneumonia,15
+2019,41,Influenza and pneumonia,13
+2015,42,Influenza and pneumonia,23
+2016,42,Influenza and pneumonia,22
+2017,42,Influenza and pneumonia,16
+2018,42,Influenza and pneumonia,25
+2019,42,Influenza and pneumonia,19
+2020,42,Influenza and pneumonia,14
+2015,43,Influenza and pneumonia,17
+2016,43,Influenza and pneumonia,13
+2017,43,Influenza and pneumonia,28
+2018,43,Influenza and pneumonia,16
+2019,43,Influenza and pneumonia,14
+2020,43,Influenza and pneumonia,20
+2015,44,Influenza and pneumonia,24
+2016,44,Influenza and pneumonia,13
+2017,44,Influenza and pneumonia,23
+2018,44,Influenza and pneumonia,15
+2019,44,Influenza and pneumonia,14
+2020,44,Influenza and pneumonia,28
+2015,45,Influenza and pneumonia,13
+2016,45,Influenza and pneumonia,15
+2017,45,Influenza and pneumonia,22
+2018,45,Influenza and pneumonia,12
+2019,45,Influenza and pneumonia,13
+2020,45,Influenza and pneumonia,22
+2015,46,Influenza and pneumonia,17
+2016,46,Influenza and pneumonia,21
+2017,46,Influenza and pneumonia,22
+2018,46,Influenza and pneumonia,19
+2019,46,Influenza and pneumonia,24
+2015,47,Influenza and pneumonia,19
+2016,47,Influenza and pneumonia,22
+2017,47,Influenza and pneumonia,14
+2018,47,Influenza and pneumonia,26
+2019,47,Influenza and pneumonia,13
+2015,48,Influenza and pneumonia,18
+2016,48,Influenza and pneumonia,18
+2017,48,Influenza and pneumonia,24
+2018,48,Influenza and pneumonia,20
+2019,48,Influenza and pneumonia,24
+2015,49,Influenza and pneumonia,17
+2016,49,Influenza and pneumonia,23
+2017,49,Influenza and pneumonia,23
+2018,49,Influenza and pneumonia,23
+2019,49,Influenza and pneumonia,21
+2015,50,Influenza and pneumonia,26
+2016,50,Influenza and pneumonia,24
+2017,50,Influenza and pneumonia,23
+2018,50,Influenza and pneumonia,18
+2019,50,Influenza and pneumonia,15
+2015,51,Influenza and pneumonia,24
+2016,51,Influenza and pneumonia,21
+2017,51,Influenza and pneumonia,33
+2018,51,Influenza and pneumonia,22
+2019,51,Influenza and pneumonia,17
+2015,52,Influenza and pneumonia,26
+2016,52,Influenza and pneumonia,33
+2017,52,Influenza and pneumonia,54
+2018,52,Influenza and pneumonia,20
+2019,52,Influenza and pneumonia,25
+2015,1,Chronic lower respiratory disease,102
+2016,1,Chronic lower respiratory disease,73
+2017,1,Chronic lower respiratory disease,109
+2018,1,Chronic lower respiratory disease,110
+2019,1,Chronic lower respiratory disease,77
+2020,1,Chronic lower respiratory disease,91
+2015,2,Chronic lower respiratory disease,85
+2016,2,Chronic lower respiratory disease,66
+2017,2,Chronic lower respiratory disease,91
+2018,2,Chronic lower respiratory disease,128
+2019,2,Chronic lower respiratory disease,80
+2020,2,Chronic lower respiratory disease,80
+2015,3,Chronic lower respiratory disease,87
+2016,3,Chronic lower respiratory disease,89
+2017,3,Chronic lower respiratory disease,114
+2018,3,Chronic lower respiratory disease,100
+2019,3,Chronic lower respiratory disease,84
+2020,3,Chronic lower respiratory disease,90
+2015,4,Chronic lower respiratory disease,73
+2016,4,Chronic lower respiratory disease,71
+2017,4,Chronic lower respiratory disease,91
+2018,4,Chronic lower respiratory disease,115
+2019,4,Chronic lower respiratory disease,92
+2020,4,Chronic lower respiratory disease,93
+2015,5,Chronic lower respiratory disease,90
+2016,5,Chronic lower respiratory disease,82
+2017,5,Chronic lower respiratory disease,107
+2018,5,Chronic lower respiratory disease,85
+2019,5,Chronic lower respiratory disease,92
+2020,5,Chronic lower respiratory disease,84
+2015,6,Chronic lower respiratory disease,71
+2016,6,Chronic lower respiratory disease,87
+2017,6,Chronic lower respiratory disease,85
+2018,6,Chronic lower respiratory disease,101
+2019,6,Chronic lower respiratory disease,75
+2020,6,Chronic lower respiratory disease,85
+2015,7,Chronic lower respiratory disease,95
+2016,7,Chronic lower respiratory disease,79
+2017,7,Chronic lower respiratory disease,113
+2018,7,Chronic lower respiratory disease,108
+2019,7,Chronic lower respiratory disease,103
+2020,7,Chronic lower respiratory disease,96
+2015,8,Chronic lower respiratory disease,91
+2016,8,Chronic lower respiratory disease,99
+2017,8,Chronic lower respiratory disease,96
+2018,8,Chronic lower respiratory disease,111
+2019,8,Chronic lower respiratory disease,78
+2020,8,Chronic lower respiratory disease,84
+2015,9,Chronic lower respiratory disease,77
+2016,9,Chronic lower respiratory disease,78
+2017,9,Chronic lower respiratory disease,78
+2018,9,Chronic lower respiratory disease,83
+2019,9,Chronic lower respiratory disease,69
+2020,9,Chronic lower respiratory disease,71
+2015,10,Chronic lower respiratory disease,115
+2016,10,Chronic lower respiratory disease,97
+2017,10,Chronic lower respiratory disease,86
+2018,10,Chronic lower respiratory disease,76
+2019,10,Chronic lower respiratory disease,92
+2020,10,Chronic lower respiratory disease,108
+2015,11,Chronic lower respiratory disease,80
+2016,11,Chronic lower respiratory disease,94
+2017,11,Chronic lower respiratory disease,99
+2018,11,Chronic lower respiratory disease,74
+2019,11,Chronic lower respiratory disease,82
+2020,11,Chronic lower respiratory disease,94
+2015,12,Chronic lower respiratory disease,95
+2016,12,Chronic lower respiratory disease,99
+2017,12,Chronic lower respiratory disease,93
+2018,12,Chronic lower respiratory disease,106
+2019,12,Chronic lower respiratory disease,80
+2020,12,Chronic lower respiratory disease,83
+2015,13,Chronic lower respiratory disease,66
+2016,13,Chronic lower respiratory disease,82
+2017,13,Chronic lower respiratory disease,78
+2018,13,Chronic lower respiratory disease,93
+2019,13,Chronic lower respiratory disease,86
+2020,13,Chronic lower respiratory disease,82
+2015,14,Chronic lower respiratory disease,77
+2016,14,Chronic lower respiratory disease,83
+2017,14,Chronic lower respiratory disease,88
+2018,14,Chronic lower respiratory disease,87
+2019,14,Chronic lower respiratory disease,65
+2020,14,Chronic lower respiratory disease,90
+2015,15,Chronic lower respiratory disease,83
+2016,15,Chronic lower respiratory disease,111
+2017,15,Chronic lower respiratory disease,70
+2018,15,Chronic lower respiratory disease,76
+2019,15,Chronic lower respiratory disease,71
+2020,15,Chronic lower respiratory disease,94
+2015,16,Chronic lower respiratory disease,83
+2016,16,Chronic lower respiratory disease,85
+2017,16,Chronic lower respiratory disease,81
+2018,16,Chronic lower respiratory disease,77
+2019,16,Chronic lower respiratory disease,74
+2020,16,Chronic lower respiratory disease,71
+2015,17,Chronic lower respiratory disease,69
+2016,17,Chronic lower respiratory disease,76
+2017,17,Chronic lower respiratory disease,65
+2018,17,Chronic lower respiratory disease,86
+2019,17,Chronic lower respiratory disease,95
+2020,17,Chronic lower respiratory disease,63
+2015,18,Chronic lower respiratory disease,75
+2016,18,Chronic lower respiratory disease,76
+2017,18,Chronic lower respiratory disease,83
+2018,18,Chronic lower respiratory disease,84
+2019,18,Chronic lower respiratory disease,64
+2020,18,Chronic lower respiratory disease,67
+2015,19,Chronic lower respiratory disease,81
+2016,19,Chronic lower respiratory disease,74
+2017,19,Chronic lower respiratory disease,78
+2018,19,Chronic lower respiratory disease,84
+2019,19,Chronic lower respiratory disease,72
+2020,19,Chronic lower respiratory disease,59
+2015,20,Chronic lower respiratory disease,75
+2016,20,Chronic lower respiratory disease,79
+2017,20,Chronic lower respiratory disease,75
+2018,20,Chronic lower respiratory disease,62
+2019,20,Chronic lower respiratory disease,72
+2020,20,Chronic lower respiratory disease,74
+2015,21,Chronic lower respiratory disease,70
+2016,21,Chronic lower respiratory disease,60
+2017,21,Chronic lower respiratory disease,68
+2018,21,Chronic lower respiratory disease,69
+2019,21,Chronic lower respiratory disease,87
+2020,21,Chronic lower respiratory disease,91
+2015,22,Chronic lower respiratory disease,79
+2016,22,Chronic lower respiratory disease,61
+2017,22,Chronic lower respiratory disease,73
+2018,22,Chronic lower respiratory disease,75
+2019,22,Chronic lower respiratory disease,84
+2020,22,Chronic lower respiratory disease,64
+2015,23,Chronic lower respiratory disease,72
+2016,23,Chronic lower respiratory disease,76
+2017,23,Chronic lower respiratory disease,74
+2018,23,Chronic lower respiratory disease,60
+2019,23,Chronic lower respiratory disease,70
+2020,23,Chronic lower respiratory disease,56
+2015,24,Chronic lower respiratory disease,85
+2016,24,Chronic lower respiratory disease,71
+2017,24,Chronic lower respiratory disease,82
+2018,24,Chronic lower respiratory disease,63
+2019,24,Chronic lower respiratory disease,70
+2020,24,Chronic lower respiratory disease,49
+2015,25,Chronic lower respiratory disease,93
+2016,25,Chronic lower respiratory disease,79
+2017,25,Chronic lower respiratory disease,62
+2018,25,Chronic lower respiratory disease,79
+2019,25,Chronic lower respiratory disease,82
+2020,25,Chronic lower respiratory disease,51
+2015,26,Chronic lower respiratory disease,80
+2016,26,Chronic lower respiratory disease,69
+2017,26,Chronic lower respiratory disease,59
+2018,26,Chronic lower respiratory disease,72
+2019,26,Chronic lower respiratory disease,71
+2020,26,Chronic lower respiratory disease,73
+2015,27,Chronic lower respiratory disease,65
+2016,27,Chronic lower respiratory disease,82
+2017,27,Chronic lower respiratory disease,78
+2018,27,Chronic lower respiratory disease,77
+2019,27,Chronic lower respiratory disease,81
+2020,27,Chronic lower respiratory disease,51
+2015,28,Chronic lower respiratory disease,76
+2016,28,Chronic lower respiratory disease,73
+2017,28,Chronic lower respiratory disease,66
+2018,28,Chronic lower respiratory disease,65
+2019,28,Chronic lower respiratory disease,63
+2020,28,Chronic lower respiratory disease,60
+2015,29,Chronic lower respiratory disease,68
+2016,29,Chronic lower respiratory disease,76
+2017,29,Chronic lower respiratory disease,60
+2018,29,Chronic lower respiratory disease,66
+2019,29,Chronic lower respiratory disease,57
+2020,29,Chronic lower respiratory disease,77
+2015,30,Chronic lower respiratory disease,72
+2016,30,Chronic lower respiratory disease,65
+2017,30,Chronic lower respiratory disease,61
+2018,30,Chronic lower respiratory disease,53
+2019,30,Chronic lower respiratory disease,67
+2020,30,Chronic lower respiratory disease,63
+2015,31,Chronic lower respiratory disease,55
+2016,31,Chronic lower respiratory disease,64
+2017,31,Chronic lower respiratory disease,72
+2018,31,Chronic lower respiratory disease,57
+2019,31,Chronic lower respiratory disease,61
+2020,31,Chronic lower respiratory disease,82
+2015,32,Chronic lower respiratory disease,73
+2016,32,Chronic lower respiratory disease,86
+2017,32,Chronic lower respiratory disease,65
+2018,32,Chronic lower respiratory disease,47
+2019,32,Chronic lower respiratory disease,46
+2020,32,Chronic lower respiratory disease,65
+2015,33,Chronic lower respiratory disease,45
+2016,33,Chronic lower respiratory disease,66
+2017,33,Chronic lower respiratory disease,82
+2018,33,Chronic lower respiratory disease,82
+2019,33,Chronic lower respiratory disease,70
+2020,33,Chronic lower respiratory disease,76
+2015,34,Chronic lower respiratory disease,70
+2016,34,Chronic lower respiratory disease,60
+2017,34,Chronic lower respiratory disease,57
+2018,34,Chronic lower respiratory disease,65
+2019,34,Chronic lower respiratory disease,67
+2020,34,Chronic lower respiratory disease,63
+2015,35,Chronic lower respiratory disease,71
+2016,35,Chronic lower respiratory disease,56
+2017,35,Chronic lower respiratory disease,62
+2018,35,Chronic lower respiratory disease,62
+2019,35,Chronic lower respiratory disease,60
+2020,35,Chronic lower respiratory disease,67
+2015,36,Chronic lower respiratory disease,71
+2016,36,Chronic lower respiratory disease,66
+2017,36,Chronic lower respiratory disease,61
+2018,36,Chronic lower respiratory disease,72
+2019,36,Chronic lower respiratory disease,65
+2020,36,Chronic lower respiratory disease,71
+2015,37,Chronic lower respiratory disease,70
+2016,37,Chronic lower respiratory disease,72
+2017,37,Chronic lower respiratory disease,73
+2018,37,Chronic lower respiratory disease,63
+2019,37,Chronic lower respiratory disease,68
+2020,37,Chronic lower respiratory disease,72
+2015,38,Chronic lower respiratory disease,70
+2016,38,Chronic lower respiratory disease,61
+2017,38,Chronic lower respiratory disease,71
+2018,38,Chronic lower respiratory disease,80
+2019,38,Chronic lower respiratory disease,64
+2020,38,Chronic lower respiratory disease,62
+2015,39,Chronic lower respiratory disease,76
+2016,39,Chronic lower respiratory disease,85
+2017,39,Chronic lower respiratory disease,70
+2018,39,Chronic lower respiratory disease,60
+2019,39,Chronic lower respiratory disease,76
+2020,39,Chronic lower respiratory disease,82
+2015,40,Chronic lower respiratory disease,53
+2016,40,Chronic lower respiratory disease,54
+2017,40,Chronic lower respiratory disease,70
+2018,40,Chronic lower respiratory disease,51
+2019,40,Chronic lower respiratory disease,67
+2020,40,Chronic lower respiratory disease,66
+2015,41,Chronic lower respiratory disease,60
+2016,41,Chronic lower respiratory disease,70
+2017,41,Chronic lower respiratory disease,76
+2018,41,Chronic lower respiratory disease,66
+2019,41,Chronic lower respiratory disease,60
+2020,41,Chronic lower respiratory disease,88
+2015,42,Chronic lower respiratory disease,67
+2016,42,Chronic lower respiratory disease,65
+2017,42,Chronic lower respiratory disease,67
+2018,42,Chronic lower respiratory disease,61
+2019,42,Chronic lower respiratory disease,51
+2020,42,Chronic lower respiratory disease,74
+2015,43,Chronic lower respiratory disease,84
+2016,43,Chronic lower respiratory disease,76
+2017,43,Chronic lower respiratory disease,67
+2018,43,Chronic lower respiratory disease,71
+2019,43,Chronic lower respiratory disease,66
+2020,43,Chronic lower respiratory disease,65
+2015,44,Chronic lower respiratory disease,64
+2016,44,Chronic lower respiratory disease,75
+2017,44,Chronic lower respiratory disease,70
+2018,44,Chronic lower respiratory disease,68
+2019,44,Chronic lower respiratory disease,85
+2020,44,Chronic lower respiratory disease,60
+2015,45,Chronic lower respiratory disease,75
+2016,45,Chronic lower respiratory disease,71
+2017,45,Chronic lower respiratory disease,61
+2018,45,Chronic lower respiratory disease,66
+2019,45,Chronic lower respiratory disease,53
+2020,45,Chronic lower respiratory disease,67
+2015,46,Chronic lower respiratory disease,69
+2016,46,Chronic lower respiratory disease,68
+2017,46,Chronic lower respiratory disease,60
+2018,46,Chronic lower respiratory disease,79
+2019,46,Chronic lower respiratory disease,71
+2015,47,Chronic lower respiratory disease,70
+2016,47,Chronic lower respiratory disease,81
+2017,47,Chronic lower respiratory disease,66
+2018,47,Chronic lower respiratory disease,70
+2019,47,Chronic lower respiratory disease,76
+2015,48,Chronic lower respiratory disease,83
+2016,48,Chronic lower respiratory disease,91
+2017,48,Chronic lower respiratory disease,73
+2018,48,Chronic lower respiratory disease,67
+2019,48,Chronic lower respiratory disease,70
+2015,49,Chronic lower respiratory disease,81
+2016,49,Chronic lower respiratory disease,71
+2017,49,Chronic lower respiratory disease,80
+2018,49,Chronic lower respiratory disease,88
+2019,49,Chronic lower respiratory disease,83
+2015,50,Chronic lower respiratory disease,68
+2016,50,Chronic lower respiratory disease,100
+2017,50,Chronic lower respiratory disease,91
+2018,50,Chronic lower respiratory disease,66
+2019,50,Chronic lower respiratory disease,78
+2015,51,Chronic lower respiratory disease,79
+2016,51,Chronic lower respiratory disease,79
+2017,51,Chronic lower respiratory disease,81
+2018,51,Chronic lower respiratory disease,92
+2019,51,Chronic lower respiratory disease,77
+2015,52,Chronic lower respiratory disease,88
+2016,52,Chronic lower respiratory disease,87
+2017,52,Chronic lower respiratory disease,80
+2018,52,Chronic lower respiratory disease,82
+2019,52,Chronic lower respiratory disease,90
+2015,1,Other diseases of the respiratory system,38
+2016,1,Other diseases of the respiratory system,38
+2017,1,Other diseases of the respiratory system,46
+2018,1,Other diseases of the respiratory system,63
+2019,1,Other diseases of the respiratory system,45
+2020,1,Other diseases of the respiratory system,53
+2015,2,Other diseases of the respiratory system,35
+2016,2,Other diseases of the respiratory system,36
+2017,2,Other diseases of the respiratory system,44
+2018,2,Other diseases of the respiratory system,47
+2019,2,Other diseases of the respiratory system,32
+2020,2,Other diseases of the respiratory system,44
+2015,3,Other diseases of the respiratory system,29
+2016,3,Other diseases of the respiratory system,36
+2017,3,Other diseases of the respiratory system,45
+2018,3,Other diseases of the respiratory system,45
+2019,3,Other diseases of the respiratory system,44
+2020,3,Other diseases of the respiratory system,50
+2015,4,Other diseases of the respiratory system,42
+2016,4,Other diseases of the respiratory system,53
+2017,4,Other diseases of the respiratory system,51
+2018,4,Other diseases of the respiratory system,52
+2019,4,Other diseases of the respiratory system,34
+2020,4,Other diseases of the respiratory system,43
+2015,5,Other diseases of the respiratory system,40
+2016,5,Other diseases of the respiratory system,45
+2017,5,Other diseases of the respiratory system,45
+2018,5,Other diseases of the respiratory system,49
+2019,5,Other diseases of the respiratory system,42
+2020,5,Other diseases of the respiratory system,43
+2015,6,Other diseases of the respiratory system,24
+2016,6,Other diseases of the respiratory system,32
+2017,6,Other diseases of the respiratory system,45
+2018,6,Other diseases of the respiratory system,46
+2019,6,Other diseases of the respiratory system,42
+2020,6,Other diseases of the respiratory system,42
+2015,7,Other diseases of the respiratory system,29
+2016,7,Other diseases of the respiratory system,25
+2017,7,Other diseases of the respiratory system,39
+2018,7,Other diseases of the respiratory system,41
+2019,7,Other diseases of the respiratory system,41
+2020,7,Other diseases of the respiratory system,46
+2015,8,Other diseases of the respiratory system,33
+2016,8,Other diseases of the respiratory system,38
+2017,8,Other diseases of the respiratory system,44
+2018,8,Other diseases of the respiratory system,46
+2019,8,Other diseases of the respiratory system,40
+2020,8,Other diseases of the respiratory system,54
+2015,9,Other diseases of the respiratory system,40
+2016,9,Other diseases of the respiratory system,43
+2017,9,Other diseases of the respiratory system,39
+2018,9,Other diseases of the respiratory system,53
+2019,9,Other diseases of the respiratory system,41
+2020,9,Other diseases of the respiratory system,52
+2015,10,Other diseases of the respiratory system,47
+2016,10,Other diseases of the respiratory system,30
+2017,10,Other diseases of the respiratory system,41
+2018,10,Other diseases of the respiratory system,45
+2019,10,Other diseases of the respiratory system,33
+2020,10,Other diseases of the respiratory system,61
+2015,11,Other diseases of the respiratory system,29
+2016,11,Other diseases of the respiratory system,36
+2017,11,Other diseases of the respiratory system,36
+2018,11,Other diseases of the respiratory system,56
+2019,11,Other diseases of the respiratory system,44
+2020,11,Other diseases of the respiratory system,42
+2015,12,Other diseases of the respiratory system,31
+2016,12,Other diseases of the respiratory system,34
+2017,12,Other diseases of the respiratory system,40
+2018,12,Other diseases of the respiratory system,39
+2019,12,Other diseases of the respiratory system,48
+2020,12,Other diseases of the respiratory system,49
+2015,13,Other diseases of the respiratory system,37
+2016,13,Other diseases of the respiratory system,31
+2017,13,Other diseases of the respiratory system,44
+2018,13,Other diseases of the respiratory system,31
+2019,13,Other diseases of the respiratory system,44
+2020,13,Other diseases of the respiratory system,45
+2015,14,Other diseases of the respiratory system,37
+2016,14,Other diseases of the respiratory system,38
+2017,14,Other diseases of the respiratory system,30
+2018,14,Other diseases of the respiratory system,39
+2019,14,Other diseases of the respiratory system,22
+2020,14,Other diseases of the respiratory system,42
+2015,15,Other diseases of the respiratory system,54
+2016,15,Other diseases of the respiratory system,36
+2017,15,Other diseases of the respiratory system,34
+2018,15,Other diseases of the respiratory system,33
+2019,15,Other diseases of the respiratory system,52
+2020,15,Other diseases of the respiratory system,48
+2015,16,Other diseases of the respiratory system,28
+2016,16,Other diseases of the respiratory system,38
+2017,16,Other diseases of the respiratory system,47
+2018,16,Other diseases of the respiratory system,37
+2019,16,Other diseases of the respiratory system,39
+2020,16,Other diseases of the respiratory system,27
+2015,17,Other diseases of the respiratory system,26
+2016,17,Other diseases of the respiratory system,26
+2017,17,Other diseases of the respiratory system,33
+2018,17,Other diseases of the respiratory system,45
+2019,17,Other diseases of the respiratory system,31
+2020,17,Other diseases of the respiratory system,43
+2015,18,Other diseases of the respiratory system,27
+2016,18,Other diseases of the respiratory system,31
+2017,18,Other diseases of the respiratory system,40
+2018,18,Other diseases of the respiratory system,35
+2019,18,Other diseases of the respiratory system,49
+2020,18,Other diseases of the respiratory system,35
+2015,19,Other diseases of the respiratory system,20
+2016,19,Other diseases of the respiratory system,28
+2017,19,Other diseases of the respiratory system,33
+2018,19,Other diseases of the respiratory system,29
+2019,19,Other diseases of the respiratory system,33
+2020,19,Other diseases of the respiratory system,50
+2015,20,Other diseases of the respiratory system,31
+2016,20,Other diseases of the respiratory system,33
+2017,20,Other diseases of the respiratory system,30
+2018,20,Other diseases of the respiratory system,27
+2019,20,Other diseases of the respiratory system,31
+2020,20,Other diseases of the respiratory system,36
+2015,21,Other diseases of the respiratory system,31
+2016,21,Other diseases of the respiratory system,40
+2017,21,Other diseases of the respiratory system,33
+2018,21,Other diseases of the respiratory system,28
+2019,21,Other diseases of the respiratory system,41
+2020,21,Other diseases of the respiratory system,34
+2015,22,Other diseases of the respiratory system,20
+2016,22,Other diseases of the respiratory system,40
+2017,22,Other diseases of the respiratory system,26
+2018,22,Other diseases of the respiratory system,32
+2019,22,Other diseases of the respiratory system,34
+2020,22,Other diseases of the respiratory system,32
+2015,23,Other diseases of the respiratory system,46
+2016,23,Other diseases of the respiratory system,25
+2017,23,Other diseases of the respiratory system,32
+2018,23,Other diseases of the respiratory system,24
+2019,23,Other diseases of the respiratory system,36
+2020,23,Other diseases of the respiratory system,34
+2015,24,Other diseases of the respiratory system,23
+2016,24,Other diseases of the respiratory system,20
+2017,24,Other diseases of the respiratory system,35
+2018,24,Other diseases of the respiratory system,31
+2019,24,Other diseases of the respiratory system,47
+2020,24,Other diseases of the respiratory system,38
+2015,25,Other diseases of the respiratory system,33
+2016,25,Other diseases of the respiratory system,29
+2017,25,Other diseases of the respiratory system,28
+2018,25,Other diseases of the respiratory system,25
+2019,25,Other diseases of the respiratory system,35
+2020,25,Other diseases of the respiratory system,33
+2015,26,Other diseases of the respiratory system,26
+2016,26,Other diseases of the respiratory system,27
+2017,26,Other diseases of the respiratory system,23
+2018,26,Other diseases of the respiratory system,30
+2019,26,Other diseases of the respiratory system,42
+2020,26,Other diseases of the respiratory system,32
+2015,27,Other diseases of the respiratory system,26
+2016,27,Other diseases of the respiratory system,24
+2017,27,Other diseases of the respiratory system,37
+2018,27,Other diseases of the respiratory system,34
+2019,27,Other diseases of the respiratory system,34
+2020,27,Other diseases of the respiratory system,23
+2015,28,Other diseases of the respiratory system,27
+2016,28,Other diseases of the respiratory system,21
+2017,28,Other diseases of the respiratory system,35
+2018,28,Other diseases of the respiratory system,27
+2019,28,Other diseases of the respiratory system,38
+2020,28,Other diseases of the respiratory system,33
+2015,29,Other diseases of the respiratory system,29
+2016,29,Other diseases of the respiratory system,27
+2017,29,Other diseases of the respiratory system,34
+2018,29,Other diseases of the respiratory system,23
+2019,29,Other diseases of the respiratory system,32
+2020,29,Other diseases of the respiratory system,36
+2015,30,Other diseases of the respiratory system,27
+2016,30,Other diseases of the respiratory system,30
+2017,30,Other diseases of the respiratory system,28
+2018,30,Other diseases of the respiratory system,31
+2019,30,Other diseases of the respiratory system,33
+2020,30,Other diseases of the respiratory system,39
+2015,31,Other diseases of the respiratory system,20
+2016,31,Other diseases of the respiratory system,34
+2017,31,Other diseases of the respiratory system,29
+2018,31,Other diseases of the respiratory system,28
+2019,31,Other diseases of the respiratory system,43
+2020,31,Other diseases of the respiratory system,30
+2015,32,Other diseases of the respiratory system,36
+2016,32,Other diseases of the respiratory system,34
+2017,32,Other diseases of the respiratory system,35
+2018,32,Other diseases of the respiratory system,31
+2019,32,Other diseases of the respiratory system,31
+2020,32,Other diseases of the respiratory system,48
+2015,33,Other diseases of the respiratory system,18
+2016,33,Other diseases of the respiratory system,33
+2017,33,Other diseases of the respiratory system,30
+2018,33,Other diseases of the respiratory system,32
+2019,33,Other diseases of the respiratory system,30
+2020,33,Other diseases of the respiratory system,34
+2015,34,Other diseases of the respiratory system,23
+2016,34,Other diseases of the respiratory system,27
+2017,34,Other diseases of the respiratory system,43
+2018,34,Other diseases of the respiratory system,39
+2019,34,Other diseases of the respiratory system,22
+2020,34,Other diseases of the respiratory system,34
+2015,35,Other diseases of the respiratory system,36
+2016,35,Other diseases of the respiratory system,27
+2017,35,Other diseases of the respiratory system,45
+2018,35,Other diseases of the respiratory system,33
+2019,35,Other diseases of the respiratory system,43
+2020,35,Other diseases of the respiratory system,29
+2015,36,Other diseases of the respiratory system,36
+2016,36,Other diseases of the respiratory system,28
+2017,36,Other diseases of the respiratory system,38
+2018,36,Other diseases of the respiratory system,30
+2019,36,Other diseases of the respiratory system,36
+2020,36,Other diseases of the respiratory system,34
+2015,37,Other diseases of the respiratory system,26
+2016,37,Other diseases of the respiratory system,26
+2017,37,Other diseases of the respiratory system,31
+2018,37,Other diseases of the respiratory system,27
+2019,37,Other diseases of the respiratory system,44
+2020,37,Other diseases of the respiratory system,45
+2015,38,Other diseases of the respiratory system,18
+2016,38,Other diseases of the respiratory system,36
+2017,38,Other diseases of the respiratory system,33
+2018,38,Other diseases of the respiratory system,24
+2019,38,Other diseases of the respiratory system,39
+2020,38,Other diseases of the respiratory system,45
+2015,39,Other diseases of the respiratory system,21
+2016,39,Other diseases of the respiratory system,20
+2017,39,Other diseases of the respiratory system,28
+2018,39,Other diseases of the respiratory system,33
+2019,39,Other diseases of the respiratory system,46
+2020,39,Other diseases of the respiratory system,45
+2015,40,Other diseases of the respiratory system,31
+2016,40,Other diseases of the respiratory system,34
+2017,40,Other diseases of the respiratory system,29
+2018,40,Other diseases of the respiratory system,28
+2019,40,Other diseases of the respiratory system,40
+2020,40,Other diseases of the respiratory system,49
+2015,41,Other diseases of the respiratory system,29
+2016,41,Other diseases of the respiratory system,29
+2017,41,Other diseases of the respiratory system,33
+2018,41,Other diseases of the respiratory system,37
+2019,41,Other diseases of the respiratory system,37
+2020,41,Other diseases of the respiratory system,39
+2015,42,Other diseases of the respiratory system,37
+2016,42,Other diseases of the respiratory system,27
+2017,42,Other diseases of the respiratory system,33
+2018,42,Other diseases of the respiratory system,37
+2019,42,Other diseases of the respiratory system,31
+2020,42,Other diseases of the respiratory system,45
+2015,43,Other diseases of the respiratory system,27
+2016,43,Other diseases of the respiratory system,31
+2017,43,Other diseases of the respiratory system,36
+2018,43,Other diseases of the respiratory system,46
+2019,43,Other diseases of the respiratory system,37
+2020,43,Other diseases of the respiratory system,52
+2015,44,Other diseases of the respiratory system,41
+2016,44,Other diseases of the respiratory system,27
+2017,44,Other diseases of the respiratory system,39
+2018,44,Other diseases of the respiratory system,41
+2019,44,Other diseases of the respiratory system,61
+2020,44,Other diseases of the respiratory system,48
+2015,45,Other diseases of the respiratory system,20
+2016,45,Other diseases of the respiratory system,21
+2017,45,Other diseases of the respiratory system,33
+2018,45,Other diseases of the respiratory system,30
+2019,45,Other diseases of the respiratory system,35
+2020,45,Other diseases of the respiratory system,44
+2015,46,Other diseases of the respiratory system,13
+2016,46,Other diseases of the respiratory system,38
+2017,46,Other diseases of the respiratory system,33
+2018,46,Other diseases of the respiratory system,37
+2019,46,Other diseases of the respiratory system,38
+2015,47,Other diseases of the respiratory system,40
+2016,47,Other diseases of the respiratory system,38
+2017,47,Other diseases of the respiratory system,36
+2018,47,Other diseases of the respiratory system,37
+2019,47,Other diseases of the respiratory system,37
+2015,48,Other diseases of the respiratory system,30
+2016,48,Other diseases of the respiratory system,35
+2017,48,Other diseases of the respiratory system,26
+2018,48,Other diseases of the respiratory system,37
+2019,48,Other diseases of the respiratory system,52
+2015,49,Other diseases of the respiratory system,37
+2016,49,Other diseases of the respiratory system,40
+2017,49,Other diseases of the respiratory system,41
+2018,49,Other diseases of the respiratory system,41
+2019,49,Other diseases of the respiratory system,47
+2015,50,Other diseases of the respiratory system,35
+2016,50,Other diseases of the respiratory system,53
+2017,50,Other diseases of the respiratory system,31
+2018,50,Other diseases of the respiratory system,25
+2019,50,Other diseases of the respiratory system,36
+2015,51,Other diseases of the respiratory system,33
+2016,51,Other diseases of the respiratory system,50
+2017,51,Other diseases of the respiratory system,43
+2018,51,Other diseases of the respiratory system,45
+2019,51,Other diseases of the respiratory system,35
+2015,52,Other diseases of the respiratory system,28
+2016,52,Other diseases of the respiratory system,40
+2017,52,Other diseases of the respiratory system,54
+2018,52,Other diseases of the respiratory system,34
+2019,52,Other diseases of the respiratory system,48
